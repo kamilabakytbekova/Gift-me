@@ -1,0 +1,21 @@
+.side_bar {
+    background-color: #EAE8FF;
+    min-width: 320px;
+    height: 949px;
+    color: #6860BC;
+}
+
+.side_bar_content {
+    padding-top: 100px;
+    margin-left: 40px;
+}
+
+
+.link {
+    text-decoration: none;
+    padding-left: 10px;
+}
+
+.wrapper {
+    margin-bottom: 20px;
+}

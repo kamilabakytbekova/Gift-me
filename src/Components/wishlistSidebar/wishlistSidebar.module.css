@@ -1,0 +1,41 @@
+.Wishlistside_bar {
+    background-color: #EAE8FF;
+    width: 320px;
+    height: 949px;
+    color: #6860BC;
+}
+
+.Wishlistside_bar_content {
+    margin-top: 100px;
+    margin-left: 15px;
+    font-family: Montserrat , sans-serif;
+    font-weight: 500;
+    font-size: 18px;
+    text-decoration: none;
+    
+
+}
+
+.wrapper{
+    margin-top: 20px;
+}
+
+.link{
+    margin-left: 10px;
+    text-decoration: none;
+}
+
+.share {
+    background: #877CFF;
+    border-radius: 20px;
+    width: 232px;
+    height: 40px;
+    font-family: Montserrat , sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    border: none;
+    margin-top: 30px;
+    margin-left: 10px;
+    color: #FEF8F8;
+}

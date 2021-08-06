@@ -1,0 +1,42 @@
+.menu {
+    display: flex;
+}
+.header {
+    display: flex;
+    background: #1DB3C3;
+    height: 80px;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 130px;
+    padding-right: 140px;
+    font-family: 'Montserrat', sans-serif;
+}
+.logo {
+    width: 116px;
+    left: 130px;
+    height: 29px;
+    top: 26px;
+    margin-bottom: 40px;
+}
+
+
+.sign {
+    border: 1px solid white;
+    border-radius: 40px;
+    background: #1DB3C3;
+    color: white;
+    padding: 10px 20px;
+    margin-right: 10px;
+    font-size: 18px;
+}
+
+.login {
+    text-decoration: none;
+    color: white;
+}
+
+.menu {
+    color: #FFFFFF;
+    font-size: 18px;
+    align-items: center;
+}

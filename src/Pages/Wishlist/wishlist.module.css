@@ -1,0 +1,29 @@
+.wishlist_content{
+  
+    display: flex;
+}
+
+.wishlist>img{
+    height: 70px;
+    width: 60px;
+    margin-left: 10px;
+}
+
+
+.wishlist_title{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat , sans-serif;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    color: #6860BC;
+    margin: 30px;
+}
+
+.more_Wish{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
